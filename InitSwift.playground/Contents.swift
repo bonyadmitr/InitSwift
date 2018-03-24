@@ -60,6 +60,10 @@ extension Object: ExpressibleByDictionaryLiteral {
 //protocol ExpressibleByExtendedGraphemeClusterLiteral
 /// there is no SetLiteral //let someObject: Object = Set(arrayLiteral: 1, 2, 3)
 
+/// example of using
+//https://twitter.com/PublicExtension/status/965224613113487360
+//https://github.com/mergesort/Public-Extension/blob/09f99d9e55eed539f925bc7371eb05ac88a00b7f/PublicExtension.playground/Pages/UIEdgeInsets.xcplaygroundpage/Contents.swift
+
 let someObject0: Object = nil
 let someObject1: Object = 1.1
 let someObject2: Object = 1
